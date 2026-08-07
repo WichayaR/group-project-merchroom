@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "681a0f1e2d3c4b5a6970f001",
+    "email": "non@merchroom.com",
+    "firstName": "นนท์",
+    "lastName": "ใจงาม",
+    "phone": "0812345678",
+    "interests": ["streetwear", "art"],
+    "address": "123 สุขุมวิท กรุงเทพฯ 10110",
+    "paymentMethods": ["PromptPay", "บัตรเครดิต"],
+    "profilePicture": "/uploads/non.png",
+    "socialAccounts": ["google"],
+    "password": "$2a$10$placeholderBcryptHashXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "role": "customer",
+    "createdAt": "2026-07-01T08:00:00.000+00:00",
+    "updatedAt": "2026-07-10T12:30:00.000+00:00"
+  },
+  {
+    "_id": "681a0f1e2d3c4b5a6970f003",
+    "email": "admin@merchroom.com",
+    "firstName": "ทีม",
+    "lastName": "แอดมิน",
+    "phone": "0898765432",
+    "interests": [],
+    "address": "",
+    "paymentMethods": [],
+    "profilePicture": "",
+    "socialAccounts": [],
+    "password": "$2a$10$placeholderBcryptHashYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY",
+    "role": "admin",
+    "employeeId": "EMP-0001",
+    "createdAt": "2026-07-01T08:00:00.000+00:00",
+    "updatedAt": "2026-07-01T08:00:00.000+00:00"
+  }
+]

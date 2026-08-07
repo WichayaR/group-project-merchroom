@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "681a0f1e2d3c4b5a6970f040",
+    "userId": "681a0f1e2d3c4b5a6970f001",
+    "totalAmount": 370,
+    "status": "success",
+    "shippingProvider": "Kerry",
+    "shippingAddress": "123 สุขุมวิท กรุงเทพฯ 10110",
+    "purchaseDate": "2026-07-13T10:00:00.000+00:00",
+    "createdAt": "2026-07-13T10:37:53.610+00:00",
+    "updatedAt": "2026-07-14T09:00:00.000+00:00"
+  }
+]

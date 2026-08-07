@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "681a0f1e2d3c4b5a6970f020",
+    "name": "เสื้อยืดศิลปิน A - ขาว",
+    "description": "เสื้อยืดคอกลม ผ้าคอตตอน 100% พิมพ์ลายเซ็นศิลปิน A",
+    "price": 290,
+    "quantity": 25,
+    "date": "2026-06-15T00:00:00.000+00:00",
+    "tags": ["limited", "streetwear"],
+    "category": "681a0f1e2d3c4b5a6970f010",
+    "artist": "ศิลปิน A",
+    "imageUrl": "/products/tshirt-a.jpg",
+    "createdAt": "2026-06-15T09:00:00.000+00:00",
+    "updatedAt": "2026-07-05T14:00:00.000+00:00"
+  },
+  {
+    "_id": "681a0f1e2d3c4b5a6970f021",
+    "name": "หมวกแก๊ปศิลปิน B - ดำ",
+    "description": "หมวกแก๊ปผ้าแคนวาส เปียกปักโลโก้ศิลปิน B ขนาดปรับได้",
+    "price": 350,
+    "quantity": 12,
+    "date": "2026-06-20T00:00:00.000+00:00",
+    "tags": ["new-arrival"],
+    "category": "681a0f1e2d3c4b5a6970f011",
+    "artist": "ศิลปิน B",
+    "imageUrl": "/products/cap-b.jpg",
+    "createdAt": "2026-06-20T09:00:00.000+00:00",
+    "updatedAt": "2026-06-20T09:00:00.000+00:00"
+  },
+  {
+    "_id": "681a0f1e2d3c4b5a6970f022",
+    "name": "สติกเกอร์แพ็คศิลปิน C",
+    "description": "แสติกเกอร์ลอยสี 5 แผ่น ลายศิลปิน C กันน้ำ",
+    "price": 40,
+    "quantity": 100,
+    "date": "2026-06-25T00:00:00.000+00:00",
+    "tags": ["sale", "cute"],
+    "category": "681a0f1e2d3c4b5a6970f012",
+    "artist": "ศิลปิน C",
+    "imageUrl": "/products/sticker-c.jpg",
+    "createdAt": "2026-06-25T09:00:00.000+00:00",
+    "updatedAt": "2026-07-01T10:00:00.000+00:00"
+  }
+]
