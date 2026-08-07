@@ -1,0 +1,11 @@
+[
+  {
+    "_id": "681a0f1e2d3c4b5a6970f050",
+    "orderId": "681a0f1e2d3c4b5a6970f040",
+    "amount": 370,
+    "method": "PromptPay",
+    "status": "paid",
+    "createdAt": "2026-07-13T10:38:00.000+00:00",
+    "updatedAt": "2026-07-13T10:38:30.000+00:00"
+  }
+]
